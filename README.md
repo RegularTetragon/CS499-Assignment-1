@@ -1,16 +1,22 @@
+# Location
+The home for this project can be found at https://github.com/RegularTetragon/CS499-Assignment-1
+
 # Contents
-## ./ExampleCode/
-A project I worked on for CS 655, primarily available at https://github.com/RegularTetragon/Lua-First-Class-Types
-## ./README.md
-You are here
-## ./Resume.pdf
-My resume
+* ./ExampleCode/
+  A project I worked on for CS 655, primarily available at https://github.com/RegularTetragon/Lua-First-Class-Types
+* ./README.md
+  You are here
+* ./Resume.pdf
+  My resume
 
 
 # Memo
 To: Dr. Hayes
+
 From: Vincent Mattingly
+
 Subject: Github memo
+
 Date: Feb. 5th 2020
 
 Configuration Managament is critically important for working in teams, for developing multiplatform software, tracking contribution to the project, and often useful for general tracking and organizational purposes. Configuration Management allows you to represent features as changes to a repository and provides tools for combining changes from other developers. There are four primary members of the software configuration management process: the Configuration Manager, the Developer, the Auditor, and the Project Manager. Users may need to interact with the software configuration management system in order to keep their packages updated. 
